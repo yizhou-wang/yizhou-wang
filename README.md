@@ -3,8 +3,8 @@
 - 🔭 I'm currently a Ph.D. Candidate at the University of Washington.
 - 🌱 I’m interested in autonomous driving, cross-modal object detection and tracking, and 3D computer vision.
 
-<a href="http://yizhouwang.net/"><img src="https://github-readme-stats.vercel.app/api?username=yizhou-wang&theme=dark&show_icons=true" height="180" align="left" style="margin: 6px; margin-bottom: 20px;" /></a>
-<a href="http://yizhouwang.net/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhou-wang&layout=compact&theme=dark" height="180" align="left" style="margin: 6px; margin-bottom: 20px;" /></a>
+<a href="http://yizhouwang.net/"><img src="https://github-readme-stats.vercel.app/api?username=yizhou-wang&theme=dark&show_icons=true" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" /></a>
+<a href="http://yizhouwang.net/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhou-wang&layout=compact&theme=dark" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" /></a>
 
 <!--
 **yizhou-wang/yizhou-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
