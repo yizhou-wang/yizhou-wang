@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently a Ph.D. Candidate at the University of Washington.
+- 🔭 I'm currently a Deep Learning Engineer at NVIDIA.
 - 🌱 I’m interested in autonomous driving, sensor fusion, cross-modal object detection and tracking, and 3D computer vision.
 
 <a href="http://yizhouwang.net/"><img src="https://github-readme-stats.vercel.app/api?username=yizhou-wang&theme=dark&show_icons=true" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" /></a>
